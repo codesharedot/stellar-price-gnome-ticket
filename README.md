@@ -1,5 +1,8 @@
-# stellar price gnome ticket 
+# stellar gnome price ticker
 
-Gnome 3 desktop ticker for stellar price with Python and argos. Rename to stellar.1r.60s.py and put in ~/.config/argos
+Get stellar price in Python [https://pythonbasics.org](https://pythonbasics.org).
+See [https://codesharedot.github.io/stellar-price-gnome-ticket/](https://codesharedot.github.io/stellar-price-gnome-ticket/)
 
-https://pythonbasics.org
+stellar price ticker for Gnome desktop. Gets the price with Python and argos.
+
+Rename to stellar.1r60s.py and put in ~/.config/argos
